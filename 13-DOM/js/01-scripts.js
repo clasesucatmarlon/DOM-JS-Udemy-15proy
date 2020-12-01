@@ -17,5 +17,4 @@ elemento = document.forms[0].action;
 elemento = document.links;
 elemento = document.links[4];
 
-
 console.log(elemento);
